@@ -6,7 +6,7 @@ Game is 1v1 in local coop. 2 joysticks are required.
 
 # For devs
 
-Opening the project requires Godot Engine 3.1+
+Opening the project requires [Godot Engine](https://godotengine.org/) 3.1+
 
 The tested builds are for Linux 64 bit and Windows 64 bit.
 It's probably possible to export for Mac and HTML5 as well.
