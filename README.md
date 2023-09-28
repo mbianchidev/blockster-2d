@@ -1,5 +1,6 @@
 
 ![The initial menu screen](_other/press/blockster_3.png)
+![Video](_other/press/Blockster.mp4)
 
 Neighbour's grass is always greener! Reach your annoying neighbour's house while preventing it to do the same! Throw blocks and die a lot in a frenetic pvp duel! 
 Game is 1v1 in local coop. 2 joysticks are required.
